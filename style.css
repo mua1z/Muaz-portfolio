@@ -362,16 +362,16 @@ section{
 
 .about .about-img img{
     position: relative;
-    border-radius: 100%;
-    width: 4vw;
+    border-radius: 20%;
+    width: 80%;
     height: auto;
 }
 
 .about .about-img .aboutHero{
-    width: 4vw;
+    width: 100%;
     height: auto;
-    border-radius: 100%;
-    font-size: 3%;
+    border-radius: 20%;
+
 }
 
 .about-img .ring{
