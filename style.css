@@ -308,8 +308,8 @@ section{
 
 .rotate-text span{
     position: relative;
-    width: 442px;
-    height: 442px;
+    width: 350px;
+    height: 350px;
     background: red;
     border: 6px solid #eaeef0;
     border-radius: 50%;
