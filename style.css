@@ -280,13 +280,13 @@ section{
     animation: floatImage 4s ease-in-out infinite;
     animation-delay: 3s;
     border-radius: 100%;
-      width: 350px;
+      width: 250px;
    
 }
 
 .img-hero img{
     position: relative;
-    width: 400px;
+    width: 350px;
     height: auto;
     z-index: 10;
     border-radius: 100%;
