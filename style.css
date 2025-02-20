@@ -362,15 +362,15 @@ section{
 
 .about .about-img {
     position: relative;
-   margin-bottom: 20%;
+   margin-bottom: 10%;
     
-    width: 80%;
+    width: 70%;
     height: auto; 
 
 }
 
 .about .about-img .aboutHero{
-    width: 120%;
+    width: 100%;
     height: auto;
     border-radius: 10%;
 
