@@ -286,11 +286,11 @@ section{
 
 .img-hero img{
     position: relative;
-    width: 400px;
+    width: 370px;
     height: auto;
     z-index: 10;
     border-radius: 100%;
-    margin-top: 18%;
+    margin-top: 25%;
     
 }
 
