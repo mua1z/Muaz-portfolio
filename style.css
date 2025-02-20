@@ -363,7 +363,8 @@ section{
 .about .about-img img{
     position: relative;
     border-radius: 100%;
-    font-size: 1%;
+    width: 4vw;
+    height: auto;
 }
 
 .about .about-img .aboutHero{
