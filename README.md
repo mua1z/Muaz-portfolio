@@ -5,10 +5,6 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [Challenges and Solutions](#challenges-and-solutions)
-- [Installation](#installation)
-- [Usage](#usage)
-- [References](#references)
 
 ## Project Overview
 This portfolio website serves as a professional showcase of my skills, projects, and experience as a full-stack developer and machine learning engineer. The website is designed to provide visitors with an interactive and visually appealing experience while presenting my technical capabilities and achievements.
@@ -68,24 +64,3 @@ This portfolio website serves as a professional showcase of my skills, projects,
 - **Challenge:** Implementing smooth filtering transitions
 - **Solution:** Utilized Mixitup library with custom configurations
 
-## Installation
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/portfolio-website.git
-```
-
-2. Open `index.html` in your preferred browser
-
-## Usage
-The website can be navigated using the top navigation menu or by scrolling. The portfolio section includes filters to view specific types of projects, and all external links open in new tabs for better user experience.
-
-## References
-- Design Inspiration: [Bi Boo Sand YouTube Channel](https://youtube.com/@BiBooSand)
-- Icons: [BoxIcons](https://boxicons.com/)
-- Animations: [ScrollReveal](https://scrollrevealjs.org/)
-- Portfolio Filtering: [MixItUp](https://www.kunkalabs.com/mixitup/)
-
----
-© 2024 Qoriev Manuchehr. All Rights Reserved.
-```
